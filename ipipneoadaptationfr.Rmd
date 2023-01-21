@@ -8,7 +8,6 @@ output:
     toc: yes
   pdf_document:
     toc: yes
-    toc_depth: 3
     df_print: kable
   word_document:
     toc: yes
@@ -33,17 +32,22 @@ Notre étude propose une adaptation en française européen à partir de la retr
 
 # L'International Personality Item Pool (IPIP)
 
-Avant de parler de l'IPIP NEO, il est important d'expliquer ce qu'est l'International Personality Item Pool (IPIP). D'après le site officiel de l'IPIP (https://ipip.ori.org/), celui-ci regroupe plus de 3000 items de plus de 250 échelles d'évaluation de la personnalité, construites à partir de ces items. Les items et échelles appartiennent au domaine public, ce qui signifie que n'importe qui peut les copier, éditer, traduire ou utiliser sans besoin d'autorisation, et sans avoir besoin de payer. En effet, Goldberg (1999) souligne que la plupart des instruments
-évaluant la personnalité appartiennent à un auteur dont les items sont placés sous copyright, ce qui empêche les scientifiques de les utiliser gratuitement ou de les modifier. Cela réduit par exemple les possibilités des comparer deux instruments entre eux pour mesurer leur validité et leur performance. De plus, il souligne que les recherches
-scientifiques sont alors soumises aux intérêts commerciaux. Il a donc entrepris de développer et de continuellement affiner une large bande d'inventaires de personnalité. Ainsi, L'International Personality Item Pool est né. L'IPIP présente de nombreux avantages. En effet, l'accès et l'utilisation est gratuite et rapide grâce à son site internet, il permet une certaine flexibilité car les utilisateurs peuvent administrer les items dans l'ordre qui leur convient et appliquer les modifications qu'ils désirent. De plus, il regroupe également un très grand nombre d'items qui permettent de développer des versions plus ou moins longues de différents tests (Goldberg et al., 2006). L'IPIP rassemble ainsi plus de 250 inventaires évaluant la personnalité dont le NEO PI R (Costa & McCrae, 1998), ici appelé : l'IPIP NEO.
+Dans le domaine de l'investogation psychométrique de la personnalité, Goldberg (1999) souligne que la plupart des instruments évaluant la personnalité appartiennent à un auteur ou à un éditeur et que les items sont protégés par le copyright, ce qui empêche les scientifiques de les utiliser gratuitement ou de les modifier. Cela réduit par exemple les possibilités des comparer deux instruments entre eux pour mesurer leur validité et leur performance. De plus, il souligne que les recherches scientifiques sont alors soumises aux intérêts commerciaux. Il a donc entrepris de développer et de continuellement affiner un large choix d'inventaires de personnalité. Ainsi, l'[International Personality Item Pool](https://ipip.ori.org/) est né. L'IPIP présente de nombreux avantages. En effet, l'accès et l'utilisation est gratuite et rapide grâce à son site internet. Il permet une certaine flexibilité car les utilisateurs peuvent administrer les items dans l'ordre qui leur convient et appliquer les modifications qu'ils désirent. De plus, il regroupe également un très grand nombre d'items qui permettent de développer des versions plus ou moins longues de différents tests (Goldberg et al., 2006). L'IPIP rassemble ainsi plus de 250 inventaires évaluant la personnalité dont l'IPIP NEO qui s'inspire du NEO PI R (Costa & McCrae, 1998).
 
 # L'IPIP NEO
 
-L'IPIP NEO est donc une « adaptation » du NEO PI, dans le sens où il vise à mesurer les mêmes domaines et les mêmes facettes. Ainsi à partir de 300 items, soit 10 items par facette, l'IPIP NEO évalue les cinq domaines du Big Five (Ouverture (O), caractère Consciencieux (C), Extraversion (E), Agréabilité-Altruisme (A), Névrosisme (N)). Comme pour
-le NEO PI R, il se base également sur 6 facettes par domaine, qui, pour certaines, n'ont pas exactement le même intitulé, quand bien même les définitions ne sont pas différentes. Une proposition de traduction pour
-les domaines et facettes sera présentée dans la suite de ce travail (Tableau 3).
+L'IPIP NEO est donc une adaptationdu NEO PI, dans le sens où il vise à mesurer les mêmes domaines et les mêmes facettes. Ainsi à partir de 300 items, soit dix items par facette, l'IPIP NEO évalue les cinq domaines du Big Five :
 
-Il fait l'objet de traductions dans plus de 10 langues, notamment en slovène (Musek, s.d.) en japonais (Karlin, s.d.) ou encore en français québécois (Gravel, s.d.). Le site de l'IPIP NEO permet à n'importe qui de passer le test gratuitement et d'obtenir, à la fin, un résultat détaillé et des informations sur sa personnalité. Ainsi, plus de 500 000 personnes ont déjà passé ce test depuis qu'il a été diffusé sur internet. Comme pour le NEO-PI, il existe des versions courtes de l'IPIP NEO avec seulement 120 items par exemple. Cela permet de répondre plus rapidement (10-20 minutes versus 30-40 minutes) mais donne des résultats moins précis que la version 300 items. Ainsi, sur la page internet « The IPIP NEO (International Personality Item Pool Representation of the NEO-PI-R) » (www.personal.psu.edu/~j5j/IPIP/ipipneo300.htm), n'importe qui peut remplir le questionnaire pour avoir un feedback concernant sa personnalité, dans sa version anglaise.
+- Ouverture (O) ;
+- Caractère Consciencieux (C) ;
+- Extraversion (E) ;
+- Agréabilité (A) ;
+- Névrosisme (N). 
+
+Comme pour le NEO PI R, il se base également sur six facettes par domaine, qui, pour certaines, n'ont pas exactement le même intitulé, quand bien même les définitions ne sont pas différentes. Une proposition de traduction pour
+les domaines et facettes en français est proposée ici. (Tableau 3).
+
+L'IPIP NEO fait l'objet de [traductions dans plus de dix langues](https://ipip.ori.org/newItemTranslations.htm), notamment en slovène (Musek, s.d.) en japonais (Karlin, s.d.) ou encore en [français québécois](https://ipip.ori.org/FrenchCanadian300-Item-IPIP-NEO.htm) (Gravel, s.d.). Le site de l'IPIP NEO permet à n'importe qui de passer le test gratuitement et d'obtenir, à la fin, un résultat détaillé et des informations sur sa personnalité. Ainsi, plus de 500 000 personnes ont déjà passé ce test depuis qu'il a été diffusé sur internet. Comme pour le NEO-PI, il existe des versions courtes de l'IPIP NEO avec seulement 120 items par exemple. Cela permet de répondre plus rapidement (10-20 minutes versus 30-40 minutes) mais donne des résultats moins précis que la version 300 items. Ainsi, sur la page internet [The IPIP NEO (International Personality Item Pool Representation of the NEO-PI-R)](www.personal.psu.edu/~j5j/IPIP/ipipneo300.htm), n'importe qui peut remplir le questionnaire pour avoir un feedback concernant sa personnalité, dans sa version anglaise.
 
 ## Validité de l'IPIP NEO
 
@@ -55,21 +59,22 @@ Ainsi, Kajonius et Johnson (2019), ont conclu à la robustesse de la structure f
 ## Problème de validation en français
 
 L'IPIP NEO est donc très intéressant mais s'il a été traduit dans de nombreuses langues, il n'a cependant qu'une seule traduction française, réalisée au Québec (Gravel, s.d.). Néanmoins, le français québécois est sensiblement différent du français européen et une mauvaise compréhension des énoncés pourrait poser problème dans l'interprétation
-et dans la structure même du questionnaire (Longley et al., 2017). En effet, d'après Verreault (2000), si le français Québécois fait partie du tout qu'est le Français, celui-ci est constitué de nombreuses variétés sociales et régionales. Ainsi, le français peut déjà être divisé en deux ; séparant le français Européen du français Américain. Le
+et dans la structure même du questionnaire (Longley et al., 2017). En effet, d'après Verreault (2000), si le français Québécois fait partie du tout qu'est le français, celui-ci est constitué de nombreuses variétés sociales et régionales. Ainsi, le français peut déjà être divisé en deux ; séparant le français européen du français américain. Le
 français européen étant constitué du français de France, de Belgique et de Suisse et le français Américain étant constitué du français du Canada. D'autres divisions peuvent encore être effectuées au sein même de celles-ci, jusqu'à aller au patois d'un petit village breton, par exemple. C'est pourquoi, dans un souci de rigueur pour entreprendre l'utilisation de cette traduction en Europe, il a été décidé de fournir une adaptation en français européen, afin d'éviter toute erreur de compréhension et finalement de valider l'IPIP NEO français européen.
-Pour cela, toute une procédure d'adaptation a été mise en place lors de la première étude menée pour ce travail. L'objectif serait en effet de se baser sur la traduction déjà existante de Gravel (s.d) disponible sur le site de l'IPIP NEO. Cette traduction a suivi les 3 première étapes de la méthode de Vallerand (1989). Cette procédure incluait une première traduction en français, suivi d'une back-translation en anglais, qui devait correspondre avec la version originale. De ce fait, certains items ont été modifié jusqu'à 3 fois pour correspondre au mieux et le pronom « Je » a dû être ajouté dans la version française. Ainsi, ce questionnaire a fait l'objet d'une traduction, mais jamais d'une
-validation à proprement parler. C'est pourquoi il a été décidé, pour se baser sur un modèle traduit avec une méthode scientifique, de se baser sur cette traduction du questionnaire et d'envisager une adaptation de celui-ci.
+L'objectif de notre étude est de nous baser sur la traduction déjà existante de Gravel (s.d) disponible sur le site de l'IPIP NEO. Cette traduction a suivi les trois première étapes de la méthode de Vallerand (1989). Cette procédure incluait une première traduction en français, suivi d'une back-translation en anglais, qui devait correspondre avec la version originale. De ce fait, certains items ont été modifié jusqu'à trois fois pour correspondre au mieux et le pronom "Je" a dû être ajouté dans la version française. Ainsi, ce questionnaire a fait l'objet d'une traduction, mais jamais d'une validation à proprement parler.
 
-# Question de recherche et hypothèses
 
-La question de recherche générale de ce mémoire cherche à proposer une adaptation et une validation française de l'IPIP NEO.
+# Objectif de notre étude
 
-En effet, en considérant 1) la non-existence d'une version française validée de l'IPIP NEO ; 2) ses avantages quant à sa qualité d'instrument « open-source » ; et 3) la potentielle facilitation du travail des chercheurs/étudiants par l'usage de ce test, l'objectif de ce travail va premièrement, tenter de proposer une adaptation adéquate de la version
-française québécoise (Gravel, s.d) déjà existante et deuxièmement tenter de valider cette nouvelle version du questionnaire en se questionnant sur la fidélité (consistance interne) et la structure factorielle de cette nouvelle version.
+Nous souhaitons proposer une adaptation française européenne de l'IPIP NEO.
 
-## L'adaptation
+En effet, nous constatons :
 
-L'objectif est ici de proposer une adaptation de la traduction française québécoise (Gravel s .d). Certains items semblent inadaptés ou difficilement compréhensibles en français européen. 
+1. l'absence d'une version française validée de l'IPIP NEO ;
+2. ses avantages quant à sa qualité d'instrument « open-source » ; 
+3. la potentielle facilitation du travail des chercheurs / étudiants par l'usage de ce test.
+
+L'objectif de notre travail est de tenter de proposer une adaptation adéquate de la version française québécoise (Gravel, s.d) déjà existante. Cette étape constitue un préalable nécessaire à une tentative de validation de cette nouvelle version du questionnaire en se questionnant sur la fidélité (consistance interne) et la structure factorielle de cette nouvelle version.
 
 
 # Adaptation française de l'IPIP NEO 300
@@ -80,105 +85,95 @@ Avant d'aller plus loin, il est important d'apporter la précision suivante : Gr
 
 ## Proposition de traduction française des domaines et facettes de l'IPIP NEO 300 items.
 
-```{r echo=FALSE}
+```{r, tab-labels,  echo=FALSE}
 ipineo_labels.df
 ```
 
 
-## Méthodologie
+## Participants
 
-Cette première étude se concentre donc sur l'adaptation française de l'IPIP NEO, adaptation réalisée à partir de la version québécoise fournie par Gravel (s.d) sur le site de l'IPIP NEO. La procédure de l'étude ainsi que les résultats de celle-ci sont présentés ci-après.
+Les participants sont des étudiants en deuxième année de Master de Traduction et d'Interprétation au sein de l'Université de Mons en Belgique. Âgés entre 20 et 34 ans, avec une moyenne d'âge de 23,8 ans (ET = 3,43). 20 personnes ont participé, parmi lesquelles 15 femmes et 5 hommes. A ces 20 personnes s'ajoutent les deux auteurs qui sont intervenus dans la première étape de la procédure.
 
-### Participants
+## Matériel
 
-Les participants sont des étudiants en deuxième année de Master de Traduction et d'Interprétation au sein de l'Université de Mons en Belgique. Âgés entre 20 et 34 ans, avec une moyenne d'âge de 23,8 ans (ET = 3,43). 20 personnes ont participé, parmi lesquelles 15 femmes et 5 hommes. A ces 20 personnes s'ajoutent le directeur de mémoire ainsi que le mémorant qui sont intervenus dans la première étape de la procédure.
+Les items analysés sont ceux de l'IPIP NEO 300 items, fournis par le site de l'IPIP et notamment, la [version française québécoise fournie sur ce même site](www.personal.psu.edu/~j5j/IPIP/ipipneo300.htm) (Gravel, s.d). Le questionnaire a été réalisé sur Google Forms, une plateforme qui permet de faire passer des questionnaires en ligne gratuitement, permettant également d'assurer l'anonymat des
+participants.
 
-### Matériel
+## Procédure 
 
-Les items analysés sont ceux de l'IPIP NEO 300 items, fourni par le site de l'IPIP et notamment, la version française québécoise fournie sur ce même site (Gravel, s.d). Le questionnaire a été réalisé sur Google Forms, une plateforme qui permet de faire passer des questionnaires en ligne gratuitement, permettant également d'assurer l'anonymat des
-participants.[^1]
+### Etape 1 : première évaluation par les deux auteurs de la traducion québecquoise
 
-### Procédure 
-
-#### Etape 1 
-
-D'abord, le mémorant ainsi que son directeur de mémoire, ont parcouru la traduction française québécoise fournie sur le site de l'IPIP NEO, chacun de leur côté, afin d'identifier les items qui pourraient poser des problèmes de compréhension, tant au niveau du vocabulaire qu'au niveau des tournures de phrases. Les items ayant été estimés ambigus, sont les items pour lesquels le mémorant **et/ou** le directeur de mémoire pointaient un problème. Il est possible de noter que 91 % des items étaient consensuellement estimés comme non problématiques. Par contre, les 26 items suivants (9% des items) ont été identifiés comme étant potentiellement problématiques (Tableau 4).
+D'abord, les deux auteurs ont parcouru la traduction française québécoise fournie sur le site de l'IPIP NEO de manière indépendante afin d'identifier les items qui pourraient poser des problèmes de compréhension, tant au niveau du vocabulaire qu'au niveau des tournures de phrases. Les items ayant été estimés ambigus, sont les items pour lesquels l'un **et / ou** l'autre pointaient un problème. Il est possible de noter que 91 % des items étaient consensuellement estimés comme non problématiques. Par contre, les 26 items suivants (9% des items) ont été identifiés comme étant potentiellement problématiques (Tableau 4).
 
 *Tableau 4.*
 
 *Items ayant été identifiés comme problématiques dans leurs traductions*
 
 
-```{r echo=FALSE, paged.print=TRUE}
+```{r, tab-accord, echo=FALSE, paged.print=TRUE}
 accord.df
 ```
 
 
-#### Etape 2 
+### Etape 2 : traductions de l'anglais au français par les étudiants en traduction
 
 Afin de remédier à ces problèmes de traduction, il a été décidé de présenter ces items à des étudiants en deuxième année de master en Traduction, l'objectif étant qu'ils fournissent la traduction la plus adéquate possible de chaque item, de l'anglais au français. Le questionnaire a été réalisé sur Google Forms et a donc été diffusé sur le groupe Facebook officiel des étudiants en Master 2 de Traduction et Interprétation de l'UMONS.
 
-Lors de l'ouverture du questionnaire en ligne, les participants arrivaient sur une page présentant le projet ayant pour titre "*Projet de Mémoire : Traduction de phrases courtes EN>FR."*. Sur la page était donc spécifiée la consigne indiquant que le questionnaire comprenait 26 phrases courtes en anglais pour lesquelles il est demandé de proposer une traduction en français. Il était également spécifié que les réponses étaient anonymes, que la participation était libre et volontaire et que les participants pouvaient décider d'arrêter de répondre au questionnaire s'ils le souhaitaient, sans qu'il n'y ait de conséquences. Il était aussi spécifié que cela ne prendrait que cinq minutes environ. En cliquant sur "suivant", les participants étaient alors conduits sur une page avec les 26 items en anglais, auxquels une zone de réponse ouverte était associée afin qu'ils puissent fournir
-leurs traductions. Après avoir répondu à toutes les questions, les participants étaient amenés sur une page où il leur était demandé d'indiquer leur âge ainsi que leur genre. Enfin, ils étaient conduits sur une page les remerciant de leur participation.
+Lors de l'ouverture du questionnaire en ligne, les participants arrivaient sur une page présentant le projet ayant pour titre "Projet de Mémoire : Traduction de phrases courtes EN>FR.". Sur la page était donc spécifiée la consigne indiquant que le questionnaire comprenait 26 phrases courtes en anglais pour lesquelles il est demandé de proposer une traduction en français. Il était également spécifié que les réponses étaient anonymes, que la participation était libre et volontaire et que les participants pouvaient décider d'arrêter de répondre au questionnaire s'ils le souhaitaient, sans qu'il n'y ait de conséquences. Il était aussi spécifié que cela ne prendrait que cinq minutes environ. En cliquant sur "suivant", les participants étaient alors conduits sur une page avec les 26 items en anglais, auxquels une zone de réponse ouverte était associée afin qu'ils puissent fournir leurs traductions. Après avoir répondu à toutes les questions, les participants étaient amenés sur une page où il leur était demandé d'indiquer leur âge ainsi que leur genre. Enfin, ils étaient conduits sur une page les remerciant de leur participation.
 
-#### Etape 3 
+### Etape 3 : analyse des fréquences de chaque proposition de traduction
 
-Les données ont ensuite été récoltées, classées et codées dans un tableau Excel (2018).
+Les données ont ensuite été récoltées, classées et codées dans un tableau Excel.
 
-A partir des traductions obtenues, une analyse a pu être réalisée afin de déterminer quelle traduction, pour chaque item, était la plus fréquemment donnée par les participants. Ainsi, pour chaque item, une analyse des réponses a été effectuée. Pour cela, des thèmes communs qui couvrent les 20 réponses à chaque item ont été dégagés. Pour chaque
-thème identifié, un code a été attribué puis le nombre de réponses qui s'identifient au thème qui leur correspond ont été comptabilisées en utilisant la fonction de comptage avec condition "NB.Si()"[^2] sur Excel (2018). Il est ainsi possible, pour chaque item, de dégager les traductions les plus données par les participants.
+A partir des traductions obtenues, une analyse a pu être réalisée afin de déterminer quelle traduction, pour chaque item, était la plus fréquemment donnée par les participants. Ainsi, pour chaque item, une analyse des réponses a été effectuée. Pour cela, des thèmes communs qui couvrent les vingt réponses à chaque item ont été dégagés. Pour chaque
+thème identifié, un code a été attribué puis le nombre de réponses qui s'identifient au thème qui leur correspond ont été comptabilisées en utilisant la fonction de comptage avec condition "NB.Si()" sur Excel (2018). Il est ainsi possible, pour chaque item, de dégager les traductions les plus fréquemment données par les participants.
 
 # Résultats 
 
 ## Exemple de l'item 50 : "Work hard"
 
-La traduction québécoise était "Je travaille fort", ce qui semble un peu trop littéral pour être compris par les futurs participants. Cet item a donc fait partie du questionnaire et parmi les 20 participants, 4 réponses différentes ont été données à savoir :
+La traduction québécoise était "Je travaille fort", ce qui semble un peu trop littéral pour être bien compris. Cet item a donc fait partie du questionnaire et parmi les 20 participants, 4 réponses différentes ont été données à savoir :
 
--   Je travaille **dur**.
-
--   Je travaille **beaucoup/énormément**.
-
--   Je travaille **d'arrache-pied**.
-
--   Je m**'investis** dans mon travail.
+- Je travaille **dur**.
+- Je travaille **beaucoup/énormément**.
+- Je travaille **d'arrache-pied**.
+- Je m'**investis** dans mon travail.
 
 A partir de ces quatre propositions, il a été possible d'établir des thèmes et de les coder. Ainsi, toutes les traductions comprenant le mot "dur" ont été codées "D", celles comprenant le mot "beaucoup" ou "énormément" ont été codées "B", celles comprenant le mot "arrache-pied" ont été codées "A" et celles comprenant le mot
-"investis" ont été codées "I". De cette manière, il a alors été possible de comptabiliser les différents thèmes afin de dégager la traduction donnée la plus fréquemment par les participants, celle qui se rapproche le plus -*a priori*- de la meilleure traduction. Ainsi, pour cet item, le Tableau 5 a pu être dressé.
+"investis" ont été codées "I". De cette manière, il a alors été possible de comptabiliser les différents thèmes afin de dégager la traduction donnée la plus fréquemment par les participants, celle qui se rapproche le plus de la meilleure traduction. Ainsi, pour cet item, le Tableau 5 a pu être dressé.
 
 *Tableau 5.*
 
 *Fréquences et proportions de traductions pour l'item « Work hard » par 20 étudiants en traduction de l'UMONS*
 
-```{r echo=FALSE}
+```{r, tab-workhard, echo=FALSE}
 workhard.df
 ```
 
+Ainsi, il est possible de dire que 75% des participants ont traduit "Work hard" par "Je travaille dur". C'est donc cette traduction qui a été retenue pour la version française de l'IPIP NEO.
+Les mêmes analyses ont été réalisées sur chacun des items. Concernant les items 42, 163, 184, 191 et 267, ils ont en majorité été traduits de la même façon que pour la version québécoise et sont donc restés inchangés.
 
-Ainsi, il est possible de dire que 75% des participants ont traduit "Work hard" par " Je travaille dur". C'est donc cette traduction qui sera retenue pour la version française de l'IPIP NEO.
-
-Les mêmes analyses ont été réalisées sur chacun des items. Concernant les items 42, 163, 184, 191 et 267, ils ont en majorité été traduits de la même façon que pour la version québécoise et resteront donc inchangés.
-
-### Items réévalués
+## Items réévalués
 
 En revanche, plusieurs items ont dû faire l'objet d'une seconde analyse, car ils restaient problématiques.
 
 D'abord, La traduction de l'item 12 s'est avéré problématique. En effet, 50% des participants ont traduit "I take charge" par "Je m'en occupe". Cependant, un test de personnalité cherche à mesurer des traits et non pas des actions en cours. Ainsi, "je m'en occupe" semble être une phrase se référant plus à une action qu'à un trait de
-personnalité. Cette traduction est trop littérale et peut conduire les participants à se demander par exemple "de quoi m'occupe-je ?" et à ne pas comprendre l'item. Néanmoins, 20% des participants ont donné la traduction "Je prends les choses en main". Cette traduction semble plus proche de l'idée générale de l'item et semble laisser moins de place à l'ambiguïté quant à la façon de l'interpréter. C'est donc cette traduction qui a été choisie après discussion entre les deux auteurs.
+personnalité. Selon nous, cette traduction semble trop littérale et pourrait conduire les participants à se demander par exemple "de quoi m'occupe-je ?" et à ne pas comprendre l'item. Néanmoins, 20% des participants ont donné la traduction "Je prends les choses en main". Cette traduction semble plus proche de l'idée générale de l'item et semble laisser moins de place à l'ambiguïté quant à la façon de l'interpréter. C'est donc cette traduction qui a été choisie après discussion entre les deux auteurs.
 
-Ensuite, les traductions des items 28 et 148 ont également été estimés ambigus. En effet, ces items concernent l'orientation politique à savoir "conservateur" ou "libéral". Le problème majeur de ces items est que ces deux partis sont des partis américains, qui n'ont pas du tout la même signification en Belgique ou en France, voire qui n'existent pas. Cependant, les traducteurs ayant traduit littéralement les items en conservant les termes de "libéraux" et "conservateurs" et après concertation entre mémorant et directeur de mémoire, il a été décidé de
-conserver les traductions données par les participants. Cela permet de ne pas prendre le risque de changer le sens même des items, les termes "libéraux" et "conservateurs" pouvant être compris dans leur sens propre sans pour autant se référer à un parti politique, "Conservateur" étant synonyme de "préserver ce qui existe" et "Libéral" étant synonyme de "favorable aux libertés individuelles" (Le Robert en ligne, s.d.). Les items retenus ici sont donc les suivants : "J'ai tendance à voter pour des candidats libéraux" et "J'ai tendance à voter pour des candidats conservateurs".
+Ensuite, les traductions des items 28 et 148 ont également été estimés ambiguës. En effet, ces items concernent l'orientation politique à savoir "conservateur" ou "libéral". Le problème majeur de ces items est que ces deux partis sont des partis américains, qui n'ont pas du tout la même signification en Belgique ou en France, voire qui n'existent pas. Cependant, les traducteurs ayant traduit littéralement les items en conservant les termes de "libéraux" et "conservateurs" et après réflexion, il a été décidé de conserver les traductions données par les participants. Cela permet de ne pas prendre le risque de changer le sens même des items, les termes "libéraux" et "conservateurs" pouvant être compris dans leur sens propre sans pour autant se référer à un parti politique, "Conservateur" étant synonyme de "préserver ce qui existe" et "Libéral" étant synonyme de "favorable aux libertés individuelles" (Le Robert en ligne, s.d.). Les items retenus ici sont donc les suivants : "J'ai tendance à voter pour des candidats libéraux" et "J'ai tendance à voter pour des candidats conservateurs".
 
 ## Traduction française européenne
 
-Ainsi, l'hypothèse 1 peut donc partiellement (certains items n'ayant pas été traduits différemment) être confirmée et il est possible de dresser le tableau (Tableau 6) indiquant les nouvelles traductions retenues, avec la proportion de participants ayant fourni cette traduction (ce tableau n'inclut pas les items inchangés).
+Voici les nouvelles traductions retenues, avec la proportion de participants ayant fourni cette traduction (ce tableau n'inclut pas les items inchangés).
 
 *Tableau 6.*
 
 *Traductions des items retenues dans le questionnaire*
 
-```{r echo=FALSE}
+```{r, tab-traductions, echo=FALSE}
 traductions.df
 ```
 
+Il est donc à présent possible de fournir une traduction française Européenne à l'IPIP NEO, en réutilisant la traduction québécoise validée et en replaçant tous les items ci-dessus par les nouvelles traductions fournies par notre panel de vingt étudiants traducteurs. Pour consulter la version française européenne que nous proposons, veuillez cliquer ici.
 
-Il est donc à présent possible de fournir une traduction française Européenne à l'IPIP NEO, en réutilisant la traduction québécoise validée et en replaçant tous les items ci-dessus par les nouvelles traductions fournies par notre panel de 20 traducteurs en devenir. A partir de cette étude 1, la suite de ce travail peut être entreprise.
+# Références
